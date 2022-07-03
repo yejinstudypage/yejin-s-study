@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="총점.c">
+    <ClCompile Include="공항 방문객.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
