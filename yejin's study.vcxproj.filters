@@ -18,5 +18,8 @@
     <ClCompile Include="개구리 징검다리.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="키가 k보다 큰 사람.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
